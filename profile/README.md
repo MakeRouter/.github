@@ -8,7 +8,7 @@
 |------------|------|------|
 | **AP 만들기** | 라즈베리파이를 공유기로 설정하는 과정 (hostapd, dnsmasq, iptables 등) | 👉 [이동하기](https://github.com/USERNAME/REPO_NAME/tree/main/AP_Setup) |
 | **AP 관련 코드** | C 기반 HTTP 서버, 연결된 기기 목록, SSID/패스워드 JSON | 👉 [이동하기](https://github.com/USERNAME/REPO_NAME/tree/main/AP_Server_Code) |
-| **MQTT 관련 코드** | 모듈 간 메시징, alive 신호 전송, Notion 연동 | 👉 [이동하기](https://github.com/USERNAME/REPO_NAME/tree/main/MQTT_Code) |
+| **MQTT 관련 코드** | 모듈 간 메시징, alive 신호 전송, Notion 연동 | 👉 [이동하기](https://github.com/MakeRouter/MATT_SRC) |
 
 ---
 
