@@ -16,3 +16,4 @@
 
 | 박찬영 (Chan-yeong Park) | 여하늘 (Ha0neul Yeo) |
 |------------|------|
+| C | Linux |
