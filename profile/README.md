@@ -15,7 +15,7 @@
 
 | 일반사진 | 추가 사진 |
 |------|------|
-| <img width="1248" height="832" alt="KakaoTalk_20251104_212515724_05" src="https://github.com/user-attachments/assets/165544d6-2815-4f55-a623-25ea1e675544" /> | <img width="1248" height="832" alt="KakaoTalk_20251104_212515724_04" src="https://github.com/user-attachments/assets/5c169221-f295-477e-95b8-c4e6f42161d7" /> |
+| <img width="1248" height="832" alt="KakaoTalk_20251104_212515724_04" src="https://github.com/user-attachments/assets/5c169221-f295-477e-95b8-c4e6f42161d7" />  | <img width="1248" height="832" alt="KakaoTalk_20251104_212515724_05" src="https://github.com/user-attachments/assets/165544d6-2815-4f55-a623-25ea1e675544" /> |
 
 
 ---
