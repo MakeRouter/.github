@@ -1,4 +1,4 @@
-<h1 align="center">📡 Raspberry Pi AP & MQTT Project</h1>
+<h1 align="center"> Raspberry Pi AP & MQTT Project</h1>
 
 ---
 
